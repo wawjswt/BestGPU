@@ -1,0 +1,5 @@
+{
+  "name": "Python GPU Script Simulator",
+  "description": "An interactive web application that simulates the execution of a Python script designed to find the most available GPU on a multi-GPU system, using the Gemini API to generate realistic console output.",
+  "requestFramePermissions": []
+}
